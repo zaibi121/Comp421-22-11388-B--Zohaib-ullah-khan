@@ -17,8 +17,7 @@ PrivateKP = kp.exportKey()
 
 print (PrivateKP.decode('ascii'))
 
-f=open('string file','r')
-string==f.readline()
+
 
 string = b'This is just a Text for Testing the code'
 
