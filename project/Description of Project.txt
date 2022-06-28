@@ -6,5 +6,6 @@ Some of its features are
 -Creates or extracts zip files
 -Downloads files from the Internet,
 -Supports file upload and download,
+Improvment: Takes Screen shot of the Client
 -Creates keylogger program,
 -Communication between server and client is AES encrypted.
